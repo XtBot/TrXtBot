@@ -35,7 +35,8 @@ $ cd ..
 
 
 
-`
+```````
+
 $ sudo apt-get install curl
 
 
