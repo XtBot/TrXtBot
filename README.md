@@ -49,7 +49,9 @@ $ git clone https://github.com/mohamadkhoshnava/translate-bot.git
 
 $ cd translate-bot && sudo chmod 777 launch.sh
 
-` 
+`
+
+
 [cruel team](https://telegram.me/cruel_news)
 
 
