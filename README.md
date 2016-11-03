@@ -3,8 +3,7 @@
 ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند کرول
 
 #آموزش نصب
-` ```
-# Download and install LuaSocket, LuaSec, Redis-Lua, ansicolors and serpent
+`
 
 $ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 $ tar zxpf luarocks-2.2.2.tar.gz
@@ -20,11 +19,22 @@ $ sudo luarocks install ansicolors
 $ sudo luarocks install serpent
 $ cd ..
 `
+
+
 نصب curl
+
+
+
 ` 
 $ sudo apt-get install curl
 `
+
+
+
 #کلون 
+
+
+
 ` 
 # Clone the repo and give the permission to start the launch script
 
