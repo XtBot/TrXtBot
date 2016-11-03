@@ -37,13 +37,8 @@ $ cd ..
 
 `
 $ sudo apt-get install curl
-`
 
 
-
-
-
-` ``
 
 $ git clone https://github.com/mohamadkhoshnava/translate-bot.git
 
