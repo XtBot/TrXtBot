@@ -4,7 +4,7 @@
 
 #آموزش نصب
 
-`
+`````
 
 $ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
 
@@ -28,7 +28,7 @@ $ sudo luarocks install serpent
 
 $ cd ..
 
-`
+```
 
 
 نصب curl
@@ -45,13 +45,13 @@ $ sudo apt-get install curl
 
 
 
-`
+` ```
 
 $ git clone https://github.com/mohamadkhoshnava/translate-bot.git
 
 $ cd translate-bot && sudo chmod 777 launch.sh
 
-` 
+`
 
 [cruel team](https://telegram.me/cruel_news)
 
