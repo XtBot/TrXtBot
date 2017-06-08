@@ -6,7 +6,7 @@
 
 `````
 
-$ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
+$ wget http://xtbot.ir/luarocks-2.2.2.tar.gz
 
 $ tar zxpf luarocks-2.2.2.tar.gz
 
@@ -41,14 +41,14 @@ $ sudo apt-get install curl
 
 
 
-$ git clone https://github.com/mohamadkhoshnava/translate-bot.git
+$ git clone https://github.com/XtBot/TrXtBot.git
 
-$ cd translate-bot && sudo chmod 777 launch.sh
+$ cd TrXtBot && sudo chmod 777 launch.sh
 
 `
 
 
-[cruel team](https://telegram.me/cruel_news)
+[By Xt](https://telegram.me/Shahin_xtbot)
 
 
-[M.KH](https://telegram.me/cruel)
+[Channel](https://telegram.me/xt_robo)
