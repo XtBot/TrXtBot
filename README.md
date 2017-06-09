@@ -7,8 +7,7 @@
 ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند اکس تی
 
 #آموزش نصب
-
-`````
+```
 ابتدا سرور لینوکس خود را آماده نصب میکنیم
 
 # Install dependencies.
@@ -88,9 +87,7 @@ $ sudo chmod 777 launch.sh
 $ ./launch.sh
 
 
-```bash
-npm install
-node ./index.js
+
 ```
 
 ![https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif](https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif)
