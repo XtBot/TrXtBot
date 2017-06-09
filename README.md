@@ -99,4 +99,4 @@ $ ./launch.sh
 [Channel](https://telegram.me/xt_robo)
 
 
-[https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png](http://t.me/Translate_XTbot)
+![https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png](http://t.me/Translate_XTbot)
