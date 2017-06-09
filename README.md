@@ -89,7 +89,7 @@ $ ./launch.sh
 
 ````
 
-![http://github.com/XtBot/TrXtBot/2017-06-09_07_14_03.gif](http://github.com/XtBot/TrXtBot/2017-06-09_07_14_03.gif)
+![https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif](https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif)
 
 
 [By Xt](https://telegram.me/Shahin_xtbot)
