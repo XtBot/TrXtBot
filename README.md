@@ -7,9 +7,9 @@
 ربات مترجم با دکمه شیشه ای نوشته شده توسط تیم قدرتمند اکس تی
 
 #آموزش نصب
-```
-ابتدا سرور لینوکس خود را آماده نصب میکنیم
 
+ابتدا سرور لینوکس خود را آماده نصب میکنیم
+```
 # Install dependencies.
 
 sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev -y
@@ -42,46 +42,52 @@ $ sudo luarocks install ansicolors
 $ sudo luarocks install serpent
 
 $ cd ..
-
+```
 
 
 
 نصب 
+```
 #Install curl
 ==============
 $ sudo apt-get install curl
-
+```
 ===========================
-
+```
 $ git clone https://github.com/XtBot/TrXtBot.git
 
 $ cd TrXtBot
-
+```
 ============================
 ##وارد کردن اطلاعات
 
 با ارسال دستور ز یر فایل را باز کنید
+```
 $ nano config.lua
-
+```
 
 فایل کنفیگ را باز کنید و توکن ربات خود را در قسمت 
 TOKEN
 قرار دهید 
 در این قسمت
+```
 bot_api_key = 'TOKEN',
-
+```
 و آیدی خودتون رو به عنوان آدمین در قسمت 
 IDADMIN
 قرار دهید
 در این قسمت
+```
 admin = IDADMIN,
+```
 به این شکل
+```
 admin = 186280031,
+```
 
+دوباره به خط زیر بازگردید و ادامه دهید
 
-
-
-
+```
 $ sudo chmod 777 launch.sh
 
 $ ./launch.sh
@@ -98,5 +104,5 @@ $ ./launch.sh
 
 [Channel](https://telegram.me/xt_robo)
 
-
-![https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png](http://t.me/Translate_XTbot)
+#نمونه ربات
+![https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png](https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png)
