@@ -65,11 +65,12 @@ elseif lang == 'FA' then
 			{
 				{text = "خروج", callback_data = '/exit'},
 	    	},
+		
     	}
 
 client:set('Text'..msg.from.id, URL.escape(msg.text))
 api.sendChatAction(msg.chat.id, 'typing')
-api.sendKeyboard(msg.chat.id, 'لطفا زبان ترجمه را انتخاب نمایید :', keyboard, true)
+api.sendKeyboard(msg.chat.id, 'سلام به ربات مترجم (Xt) \n  خـوش اومـدے \nلطفا زبان ترجمه را انتخاب نمایید :', keyboard, true)
 end
 
 end
