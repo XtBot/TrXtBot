@@ -87,7 +87,8 @@ $ sudo chmod 777 launch.sh
 
 $ ./launch.sh
 
-````
+```
+
 ![https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif](https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif)
 
 
