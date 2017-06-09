@@ -95,6 +95,7 @@ $ ./launch.sh
 
 
 ```
+به شکل زیر
 
 ![https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif](https://raw.githubusercontent.com/XtBot/TrXtBot/master/2017-06-09_07_14_03.gif)
 
@@ -103,6 +104,3 @@ $ ./launch.sh
 
 
 [Channel](https://telegram.me/xt_robo)
-
-#نمونه ربات
-![https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png](https://raw.githubusercontent.com/XtBot/TrXtBot/master/Screenshot_2017-06-09-07-52-45.png)
