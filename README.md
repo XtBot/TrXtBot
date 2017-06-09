@@ -87,7 +87,9 @@ $ sudo chmod 777 launch.sh
 
 $ ./launch.sh
 
-`
+````
+
+![ttp://github.com/XtBot/TrXtBot/2017-06-09_07_14_03.gif](https://raw.githubusercontent.com/yagop/bitcore-tx-blessed/master/demo.gif)
 
 
 [By Xt](https://telegram.me/Shahin_xtbot)
